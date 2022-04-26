@@ -4,5 +4,13 @@ I made this feature while working on [OneSmile](https://play.google.com/store/ap
 
 This feature is divided into to part, first is pre-survey and second is post-survey.
 
-video uploading ..
+ - Pre-Survey
+ 
+https://user-images.githubusercontent.com/90954993/165345706-9e2ab45a-322c-49b5-9991-48da685b7e3f.mp
+
+</br>
+
+ - Post-Survey
+
+https://user-images.githubusercontent.com/90954993/165346925-54cf504b-46d4-469f-bdb5-9225048399b3.mp4
 
